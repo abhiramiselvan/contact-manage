@@ -1,4 +1,4 @@
-#Contact Management System 
+# Contact Management System 
 
 The Contact Management System is a user-friendly command-line interface (CLI) application designed for efficient contact management. It allows users to seamlessly add new contact numbers and perform quick searches by name. The program is equipped with file-handling capabilities to store and retrieve contact information, ensuring convenience and accessibility.
 
